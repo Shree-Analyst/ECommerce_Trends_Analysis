@@ -16,9 +16,7 @@ The company's database structure can be found here [link].
 
 # Executive Summary
 
-### Overview of Findings
-
-[Sales Trends Visualisation here]
+<img width="2076" height="1272" alt="Sales Trends - Revenue   AOV" src="https://github.com/user-attachments/assets/4e2c6f3e-7887-4af7-809e-96331ab638ae" />
 
 Between 2019 and 2022, WebOne Gadgets made $28M in Revenue across an Order Count of 108k, earning an AOV of $260 per order.
 - Revenue grew steadily on launch and reached a record $10.1M in 2020, driven by pandemic spending on laptops & gaming monitor from its non-loyalty customers. Following this peak, laptop prices gradually dropped and customers started to order less, leading to a sharp fall in AOV, Order Count, and Revenue which culminated in an unusually poor holiday season in 2022.
@@ -30,7 +28,7 @@ Based on these, we recommend
 # Insights Deep Dive
 ### Sales Trends:
 
-[Product Revenues area chart here] [Marketing channel Revenue area chart here]
+<img width="1074" height="1106" alt="Product Revenues" src="https://github.com/user-attachments/assets/cd7afd9c-4e1e-4769-8128-9421304e3836" /><img width="1074" height="1106" alt="Marketing Channels" src="https://github.com/user-attachments/assets/17f49a55-ba24-4c1c-8e41-6da07ea4eb39" />
 
 * **4 Products make up 96% of Revenue.** 
 
