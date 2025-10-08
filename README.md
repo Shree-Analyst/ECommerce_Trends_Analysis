@@ -5,7 +5,7 @@
 
 WebOne Gadgets is a global online e-commerce platform selling popular consumer electronics from brands like Apple, Samsung, and Lenovo since late 2018 through its website and mobile app. Its main marketing channels are SEO, email, social media, and affiliate, and it measures performance using Revenue, Order Count, and Average Order Value (AOV). Together with the Head of Operations, this analysis examines sales transactions from 2019-2022 and compares metrics across Sales Trends, Seasonality, Loyalty Program Performance, and Refund Rates.
 
-Business questions answered through SQL queries: [link] | ERD: [link]
+Business questions answered through SQL queries: [here](https://github.com/Shree-Analyst/ECommerce_Trends_Analysis/blob/main/Data/Queries.sql) | ERD: [here](https://github.com/Shree-Analyst/ECommerce_Trends_Analysis/blob/main/Data/ERD.png)
 
 # Executive Summary
 
