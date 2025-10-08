@@ -77,7 +77,7 @@ Based on the above findings, we recommend the following:
 * **Email and direct marketing lucrative for loyalty members:** Marketing channel performance diverges over time for members & non-members. From 2019-2020 levels, direct marketing Revenue to non-members declined by $3.5M and increased by $3M to members. Email marketing AOV from members ($228) is twice as high as non-members ($105), and Revenue performance has significantly diverged. The Marketing Team may reallocate non-member email marketing spend to member retention programs.
 
 <p align="center">
-  <img src="Loyalty Products.png" alt="Loyalty Product Performance" width="50%">
+  <img src="Loyalty Products Performance.png" alt="Loyalty Product Performance" width="50%">
 </p>
 
 * **Accessories preferred by loyalty program members:** Airpods & Webcam are more popular among loyalty members. They also pay more on average for Airpods, Gaming Monitor, & Macbook. This may be due to non-members receiving deep discounts to encourage purchases, which requires further analysis. Meanwhile, the Product & Sales Teams may consider expanding accessories to brand-specific cases, keyboards, etc., and creating product + accessory bundles targeted to loyalty members. They may also consider creating premium membership tiers with access for specific premium products reserved to high-spending loyalty customers.
